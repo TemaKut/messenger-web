@@ -11,6 +11,7 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
+    "client-proto": "git+https://github.com/TemaKut/messenger-client-proto#e665cae4cc0a6b2459d9f098ea7c8076dc5e6c70",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
